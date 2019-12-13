@@ -1,0 +1,354 @@
+[
+  {
+    "id": "dea20cd6-dc50-41be-bc74-f30b285dd7dd",
+    "data": [
+      {
+        "text": "something ",
+        "userDefined": false
+      },
+      {
+        "text": "less popular",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67f1cb66-b56a-401c-85ef-c81d00eed337",
+    "data": [
+      {
+        "text": "I\u0027m fine with something ",
+        "userDefined": false
+      },
+      {
+        "text": "popular",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13aeee47-a176-4b8b-b67a-9f1ed206e9e1",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "hidden gem",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      },
+      {
+        "text": " !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7f17b98-cf1a-4e6a-ac46-e72913e0ce9a",
+    "data": [
+      {
+        "text": "low key",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "098fa8ec-a917-45e6-98d4-3e263ae8c879",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "secret spot",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00252ae6-962b-4a42-8839-c01ddc07a1f9",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "less popular",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      },
+      {
+        "text": " country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0a99fe8-514e-41ae-a1ea-e17a7660d444",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "popular",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      },
+      {
+        "text": " country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fc6a19a-209a-487e-b15f-6bd23b6b946f",
+    "data": [
+      {
+        "text": "something ",
+        "userDefined": false
+      },
+      {
+        "text": "off the beaten path",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c451a54c-edd4-45bc-bd50-f60840b455d4",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "popular destination",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      },
+      {
+        "text": " is fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcfedc32-bc38-4c73-8552-7a2909443700",
+    "data": [
+      {
+        "text": "tried and tested",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "057c3b1e-312f-4490-9057-3c4f39cfa3db",
+    "data": [
+      {
+        "text": "something ",
+        "userDefined": false
+      },
+      {
+        "text": "low-key",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4639b5c9-2861-48a5-a379-3f2989cdccf3",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "holiday-classic",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      },
+      {
+        "text": " is fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7114f76-03d5-40ed-8309-29385ece9c10",
+    "data": [
+      {
+        "text": "I\u0027d like something ",
+        "userDefined": false
+      },
+      {
+        "text": "tried and tested",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "763a0657-f69f-48d2-b051-5d85dc68fd8e",
+    "data": [
+      {
+        "text": "I want something popular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d07996ea-84a6-4d8c-945c-5218edd26582",
+    "data": [
+      {
+        "text": "Low-key",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      },
+      {
+        "text": " is better",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6d55c24-3edb-43f1-83b7-b67c6c79f3a4",
+    "data": [
+      {
+        "text": "I would like something ",
+        "userDefined": false
+      },
+      {
+        "text": "low-key",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c87e7ecb-e1c5-48a0-8ccc-e85ab3c72e37",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "holiday classic",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "256fa881-b81c-41bf-89e7-aabdb0293204",
+    "data": [
+      {
+        "text": "I would prefer a ",
+        "userDefined": false
+      },
+      {
+        "text": "popular destination",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd7c6ce5-7e9e-43ab-8f2e-70a431f27f6b",
+    "data": [
+      {
+        "text": "I\u0027d like something ",
+        "userDefined": false
+      },
+      {
+        "text": "off the beaten path",
+        "alias": "popularity",
+        "meta": "@popularity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

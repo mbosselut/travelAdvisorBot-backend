@@ -1,0 +1,86 @@
+{
+  "id": "2233992b-a70a-4df6-a614-b26fad30dee8",
+  "name": "shortChooseHolidayDestination",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6bd0eddc-2b7d-4c37-b390-cc9546d4927a",
+          "required": true,
+          "dataType": "@continent",
+          "name": "continent",
+          "value": "$continent",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which continent would you like to go to ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0f83841c-c8ae-4fe7-b139-8459f1b728c3",
+          "required": true,
+          "dataType": "@holidayType",
+          "name": "holidayType",
+          "value": "$holidayType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to tan on the beach, visit cities full of culture or explore beautiful nature ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "86ecc56a-50b7-424b-8212-66489b205d0c",
+          "required": true,
+          "dataType": "@popularity",
+          "name": "popularity",
+          "value": "$popularity",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Are you looking for a low-key destination, or a tried-and-tested popular one?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "b5e14da9-d55d-4ca4-8f30-36991f2e443d",
+  "parentId": "b46f2134-56a0-40a8-8725-d544ede08389",
+  "rootParentId": "4b90af9d-2aac-4586-81b1-fd12b3350a69",
+  "name": "popularity",
+  "auto": true,
+  "contexts": [
+    "holidayType-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chooseHolidayDestination.chooseHolidayDestination-custom.continentChoice-custom.holidayType-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eac0cb19-8454-4887-ae60-931d6dc72d10",
+          "required": true,
+          "dataType": "@popularity",
+          "name": "popularity",
+          "value": "$popularity",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

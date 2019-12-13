@@ -1,0 +1,61 @@
+{
+  "id": "a310c2b6-0a49-4773-a7d2-8460560d3600",
+  "parentId": "4b90af9d-2aac-4586-81b1-fd12b3350a69",
+  "rootParentId": "4b90af9d-2aac-4586-81b1-fd12b3350a69",
+  "name": "continentChoice",
+  "auto": true,
+  "contexts": [
+    "chooseHolidayDestination-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chooseHolidayDestination.chooseHolidayDestination-custom",
+      "affectedContexts": [
+        {
+          "name": "continentChoice-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9cf69ff5-f07f-42e8-b234-9d8b1934f6cd",
+          "required": true,
+          "dataType": "@continent",
+          "name": "continent",
+          "value": "$continent",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which continent would you like to travel to ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

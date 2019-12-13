@@ -1,0 +1,9 @@
+{
+  "id": "58ac8cce-afa3-454c-953e-c07810d7910d",
+  "name": "continent",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

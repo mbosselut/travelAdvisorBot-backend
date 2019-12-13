@@ -1,0 +1,28 @@
+[
+  {
+    "value": "low-key",
+    "synonyms": [
+      "off the beaten path",
+      "off the beaten track",
+      "less popular",
+      "low-key",
+      "low key",
+      "secret spot",
+      "secret",
+      "hidden gem"
+    ]
+  },
+  {
+    "value": "holiday-classic",
+    "synonyms": [
+      "tried and tested",
+      "safe bet",
+      "popular destination",
+      "holiday classic",
+      "holiday-classic",
+      "classic",
+      "popular",
+      "number one spot"
+    ]
+  }
+]

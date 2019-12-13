@@ -1,0 +1,61 @@
+{
+  "id": "b46f2134-56a0-40a8-8725-d544ede08389",
+  "parentId": "a310c2b6-0a49-4773-a7d2-8460560d3600",
+  "rootParentId": "4b90af9d-2aac-4586-81b1-fd12b3350a69",
+  "name": "holidayType",
+  "auto": true,
+  "contexts": [
+    "continentChoice-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chooseHolidayDestination.chooseHolidayDestination-custom.continentChoice-custom",
+      "affectedContexts": [
+        {
+          "name": "holidayType-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d33dc163-0cdd-4cac-a011-9e25815d6f0a",
+          "required": true,
+          "dataType": "@holidayType",
+          "name": "holidayType",
+          "value": "$holidayType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you want to chill on the beach, visit cool cities or explore nature ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

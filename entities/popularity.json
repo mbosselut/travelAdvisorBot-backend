@@ -1,0 +1,9 @@
+{
+  "id": "bf1ad19e-1f2f-4b8d-80ed-078ce962e800",
+  "name": "popularity",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

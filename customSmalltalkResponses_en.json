@@ -1,0 +1,32 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I\u0027m a Travel advisor bot, here to help you choose your next holiday destination !"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "I sure can ! I can help you decide where you to go for your next holiday."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Indeed I am."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re very welcome."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thanks ! That\u0027s what I do."
+    ]
+  }
+]

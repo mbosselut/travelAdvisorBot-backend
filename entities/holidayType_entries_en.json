@@ -1,0 +1,28 @@
+[
+  {
+    "value": "beach",
+    "synonyms": [
+      "beach",
+      "sun",
+      "beachy",
+      "beach holiday"
+    ]
+  },
+  {
+    "value": "city",
+    "synonyms": [
+      "city",
+      "cities",
+      "culture",
+      "cultural holiday"
+    ]
+  },
+  {
+    "value": "nature",
+    "synonyms": [
+      "nature",
+      "environment",
+      "nature holiday"
+    ]
+  }
+]

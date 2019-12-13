@@ -1,0 +1,35 @@
+[
+  {
+    "value": "Europe",
+    "synonyms": [
+      "Europe",
+      "europe",
+      "european country"
+    ]
+  },
+  {
+    "value": "Asia",
+    "synonyms": [
+      "Asia",
+      "asia",
+      "asian country"
+    ]
+  },
+  {
+    "value": "Africa",
+    "synonyms": [
+      "Africa",
+      "africa",
+      "african country"
+    ]
+  },
+  {
+    "value": "America",
+    "synonyms": [
+      "America",
+      "south america",
+      "america",
+      "south american country"
+    ]
+  }
+]

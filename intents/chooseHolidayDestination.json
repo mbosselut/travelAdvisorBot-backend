@@ -1,0 +1,52 @@
+{
+  "id": "4b90af9d-2aac-4586-81b1-fd12b3350a69",
+  "name": "chooseHolidayDestination",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "chooseHolidayDestination-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "What",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "can",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "y",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

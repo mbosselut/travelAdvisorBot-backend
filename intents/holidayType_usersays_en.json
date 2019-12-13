@@ -1,0 +1,231 @@
+[
+  {
+    "id": "df83d360-1d3d-4506-8736-23864c69d383",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "beach holiday",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "334b8f7b-9689-4dc6-8210-187f25317556",
+    "data": [
+      {
+        "text": "cities",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e28f416a-b4da-4036-9e07-1d7bcdaeac28",
+    "data": [
+      {
+        "text": "to the ",
+        "userDefined": false
+      },
+      {
+        "text": "beach",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b1d71dc9-d5ca-4a6d-a02e-302708b9c3a6",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "culture",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dda1cb8-d66b-4a41-87f6-9fc047211aa6",
+    "data": [
+      {
+        "text": "I want to discover a cool ",
+        "userDefined": false
+      },
+      {
+        "text": "city",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92ffce8b-5582-484c-b830-0a0d3d51251d",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "beaches",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b96043f5-1087-443c-80c4-7f37e3cb21cf",
+    "data": [
+      {
+        "text": "I want to tan on the ",
+        "userDefined": false
+      },
+      {
+        "text": "beach",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fe35605-23c1-4056-9e1c-be2056325624",
+    "data": [
+      {
+        "text": "I want exciting ",
+        "userDefined": false
+      },
+      {
+        "text": "cities",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "086937ef-7839-4fa9-8513-e55ce509f70e",
+    "data": [
+      {
+        "text": "I want to chill on the ",
+        "userDefined": false
+      },
+      {
+        "text": "beach",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3553e74-f013-426f-a765-bdda15f1af3a",
+    "data": [
+      {
+        "text": "I love ",
+        "userDefined": false
+      },
+      {
+        "text": "nature",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73c336e6-c469-4777-b075-64fc2484932f",
+    "data": [
+      {
+        "text": "I want to see ",
+        "userDefined": false
+      },
+      {
+        "text": "nature",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d7a8e3d-166a-4e24-b157-9746753378d1",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "cities",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b3f4b4f-c1a6-488b-8b25-eaa7de254301",
+    "data": [
+      {
+        "text": "I like the ",
+        "userDefined": false
+      },
+      {
+        "text": "beach",
+        "alias": "holidayType",
+        "meta": "@holidayType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

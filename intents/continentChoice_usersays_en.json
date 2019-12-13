@@ -1,0 +1,218 @@
+[
+  {
+    "id": "3736cd1b-091a-42b2-ba83-70f68c82bc3a",
+    "data": [
+      {
+        "text": "to ",
+        "userDefined": false
+      },
+      {
+        "text": "Asia",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01142767-5314-41fc-800c-51b220d44108",
+    "data": [
+      {
+        "text": "I\u0027d like to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "America",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9332aea-03be-4216-b68a-37c7c8f12c4c",
+    "data": [
+      {
+        "text": "I prefer ",
+        "userDefined": false
+      },
+      {
+        "text": "Asia",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c83d1f0c-5779-41d9-8bbf-804e2a4e1ad9",
+    "data": [
+      {
+        "text": "America",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      },
+      {
+        "text": " for sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03722a61-d5e6-48ea-851f-0a46252ad5c7",
+    "data": [
+      {
+        "text": "I\u0027m up for ",
+        "userDefined": false
+      },
+      {
+        "text": "Africa",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c62b4ed5-ad14-4aa5-b579-7bbce5a2a50c",
+    "data": [
+      {
+        "text": "I want to see more of ",
+        "userDefined": false
+      },
+      {
+        "text": "Africa",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67267e32-f3fc-42eb-94f8-c6b37c974014",
+    "data": [
+      {
+        "text": "I want to discover ",
+        "userDefined": false
+      },
+      {
+        "text": "Asia",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "968ac8b8-7d3c-45fe-9152-98959ece39db",
+    "data": [
+      {
+        "text": "Sign me up for ",
+        "userDefined": false
+      },
+      {
+        "text": "Europe",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fa29d21-b383-48cc-91ff-5f9ca63b15ed",
+    "data": [
+      {
+        "text": "America",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      },
+      {
+        "text": " sounds cool",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3651a1d7-7ed2-43b9-a43b-b34443362c80",
+    "data": [
+      {
+        "text": "Africa",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      },
+      {
+        "text": " sounds nice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "332ac8be-27f2-4586-90dc-dd63f68cdaf1",
+    "data": [
+      {
+        "text": "I want to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Asia",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cced4173-9bf0-4d59-bb3b-9ef45568ab23",
+    "data": [
+      {
+        "text": "I want to stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Europe",
+        "alias": "continent",
+        "meta": "@continent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
